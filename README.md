@@ -49,7 +49,9 @@ class StudentAdmin (admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![281351286-7456b33d-cf08-4ba4-8c7d-6132a6cae65e](https://github.com/MoenishBaalan/django-orm-app/assets/147473396/15556693-497d-49f2-bde9-9f1444d3fd59)
+![image](https://github.com/MoenishBaalan/django-orm-app/assets/147473396/67265b44-89ff-4b0e-91a4-71eb8673b673)
+
+
 
 
 ## RESULT
